@@ -219,7 +219,7 @@
       )
     )
   )
-  (symbol "DCMD-400-A" (in_bom yes) (on_board yes)
+rmr  (symbol "DCMD-400-A" (in_bom yes) (on_board yes)
     (property "Reference" "DCMD-400-A" (at 16.51 22.86 0)
       (effects (font (size 1.27 1.27)))
     )
